@@ -58,17 +58,6 @@
 
 ---
 
-### 🏋️ Gym Management App
-
-* Built APIs for membership & subscription management
-* Implemented authentication & role-based access
-* Integrated backend with Flutter frontend
-* Focused on clean and scalable architecture
-
-🔗 Repo: https://github.com/Jaikumarvanjare/Gym_Membership_Management_App
-
----
-
 ## 📊 GitHub Stats
 
 ![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaikumarvanjare\&show_icons=true\&theme=tokyonight)
